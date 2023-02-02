@@ -1,30 +1,9 @@
 
 > Abra esta pagina en [https://lococorp.github.io/taller-3-misiones/](https://lococorp.github.io/taller-3-misiones/)
 
-## Usar como extensión
+## Tutorials
 
-Este repositorio puede ser añadido como una **extensión** en MakeCode.
-
-* abra [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* haga clic en **New Project**
-* haga clic en **Extensiones** en el menú del engranaje
-* buscar **https://github.com/lococorp/taller-3-misiones** e importar
-
-## Edita este proyecto ![Insignia de estado de compilación](https://github.com/lococorp/taller-3-misiones/workflows/MakeCode/badge.svg)
-
-Para editar este repositorio en MakeCode.
-
-* abra [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* haga clic en **Import** luego haga clic en **Import URL**
-* pegue **https://github.com/lococorp/taller-3-misiones** y haga clic en importar
-
-## Vista previa de bloques
-
-Esta imagen muestra el código de los bloques de la última confirmación en master.
-Esta imagen puede tardar unos minutos en actualizarse.
-
-![Una vista renderizada de los bloques](https://github.com/lococorp/taller-3-misiones/raw/master/.github/makecode/blocks.png)
-
+* [Mission 1](/taller-3-misiones/tutorial1) [start](https://makecode.microbit.org/#tutorial:github:lococorp/taller-3-misiones/tutorial1)
 #### Metadatos (utilizados para búsqueda, renderizado)
 
 * for PXT/microbit
