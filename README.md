@@ -3,7 +3,7 @@
 
 ## Tutorials
 
-* [Mission 1](/taller-3-misiones/tutorial1) [start](https://makecode.microbit.org/#tutorial:github:lococorp/taller-3-misiones/tutorial1)
+* [Mission 1](/taller-3-misiones/tutorial1) [start](https://makecode.microbit.org/_MdwDvbguvP5d)
 #### Metadatos (utilizados para búsqueda, renderizado)
 
 * for PXT/microbit

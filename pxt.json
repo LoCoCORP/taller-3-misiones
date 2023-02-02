@@ -4,12 +4,15 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "maqueen": "github:dfrobot/pxt-maqueen#v1.7.2",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.5"
     },
     "files": [
         "main.ts",
         "README.md",
-        "tutorial1.md"
+        "tutorial1.md",
+        "main-tutorial1.block.ts"
     ],
     "testFiles": [
         "test.ts"

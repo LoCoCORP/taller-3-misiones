@@ -1,5 +1,5 @@
 # Asómate al barranco
-¡Hola mundo!
+
 
 ## Step 1
 
