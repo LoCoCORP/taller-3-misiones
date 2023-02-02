@@ -3,4 +3,6 @@
 
 ## Tutorials
 
-* [Mission 1](/taller-3-misiones/tutorial1) [start](https://makecode.microbit.org/_MdwDvbguvP5d)
+* Mission 1: [start](https://makecode.microbit.org/_MdwDvbguvP5d)
+* Mission 2: [start](https://makecode.microbit.org/_MdwDvbguvP5d)
+
